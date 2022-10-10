@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/unnko', function () {
+Route::get('/unnkounnko', function () {
     return view('welcome');
 });
 
